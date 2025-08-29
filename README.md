@@ -41,9 +41,9 @@ This repository is a complete record of my progress, covering everything from ba
 
 05PasswordGenerator – Password generator project using React hooks.
 
----
-
 ⏳ More projects coming soon as I continue my React learning journey...
+
+---
 
 
 ## 📖 Additional Resources I Follow
