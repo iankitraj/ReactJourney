@@ -27,21 +27,16 @@ This repository is a complete record of my progress, covering everything from ba
    npm run dev
 ---
    
-📚 Modules & Projects Completed
+## 📚 Modules & Projects Completed
 
-1.1viteproject – Setup React project using Vite.
+1. **1.1viteproject** – Setup React project using **Vite**.  
+2. **01reactapp** – First React App, understanding components and JSX.  
+3. **02counterApp** – Counter app using `useState` with validation.  
+4. **03TailwindcssProps** – Passing props + Tailwind CSS styling.  
+5. **04BgChanger** – Background color changer app.  
+6. **05PasswordGenerator** – Password generator project using React hooks.  
+7. **06CurrencyGenerator** – Currency converter app to generate converted values between currencies.  
 
-01reactapp – First React App, understanding components and JSX.
-
-02counterApp – Counter app using useState with validation.
-
-03TailwindcssProps – Passing props + Tailwind CSS styling.
-
-04BgChanger – Background color changer app.
-
-05PasswordGenerator – Password generator project using React hooks.
-
-⏳ More projects coming soon as I continue my React learning journey...
 
 ---
 
