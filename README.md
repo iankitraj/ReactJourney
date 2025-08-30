@@ -35,7 +35,7 @@ This repository is a complete record of my progress, covering everything from ba
 4. **03TailwindcssProps** – Passing props + Tailwind CSS styling.  
 5. **04BgChanger** – Background color changer app.  
 6. **05PasswordGenerator** – Password generator project using React hooks.  
-7. **06CurrencyGenerator** – Currency converter app to generate converted values between currencies.  
+7. **06CurrencyConvertres** – Currency converter app to generate converted values between currencies.  
 
 
 ---
