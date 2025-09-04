@@ -36,6 +36,9 @@ This repository is a complete record of my progress, covering everything from ba
 5. **04BgChanger** – Background color changer app.  
 6. **05PasswordGenerator** – Password generator project using React hooks.  
 7. **06CurrencyConvertres** – Currency converter app to generate converted values between currencies.  
+8. **08MiniContext** – Using Context API for state management.  
+9. **09ThemeSwitcher** – Dark/Light theme switcher using Context + custom hooks.
+ 
 
 
 ---
